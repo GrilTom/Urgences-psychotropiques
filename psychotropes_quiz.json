@@ -1,0 +1,87 @@
+[
+    {
+        "question": "Quelles sont les indications principales des benzodiazépines dans un service d’urgence ?",
+        "options": [
+            "",
+            "        Les benzodiazépines sont utilisées en urgence pour :",
+            "        - Gestion des crises d'épilepsie (y compris les états de mal épileptique).",
+            "        - Anxiété aiguë ou panique sévère.",
+            "        - Sevrage alcoolique (prévention des crises convulsives).",
+            "        - Sédation pré-interventionnelle ou pour calmer un patient agité.",
+            "        - Relaxation musculaire en cas de spasmes sévères.",
+            "        Source : Emergency department visits involving benzodiazepines (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5623103/).",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Dans quel cas utilise-t-on un antipsychotique comme l’halopéridol en urgence ?",
+        "options": [
+            "",
+            "        Indications principales :",
+            "        - Agitation aiguë ou agressivité sévère (souvent en lien avec une psychose).",
+            "        - Délirium.",
+            "        - Troubles psychotiques aigus ou exacerbation d'une schizophrénie.",
+            "        Source : Haloperidol use in acute agitation (https://www.sciencedirect.com/science/article/abs/pii/S0193953X12000234).",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Quels sont les psychotropes couramment prescrits pour une agitation sévère ou une agressivité en urgence ?",
+        "options": [
+            "",
+            "        - Antipsychotiques atypiques : Olanzapine, rispéridone.",
+            "        - Antipsychotiques typiques : Halopéridol.",
+            "        - Benzodiazépines : Lorazépam ou midazolam.",
+            "        Source : Guidelines for emergency treatment of acute agitation.",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Quel traitement privilégier pour un patient présentant un syndrome de sevrage alcoolique aigu ?",
+        "options": [
+            "",
+            "        Benzodiazépines (diazépam, lorazépam) pour prévenir les crises convulsives et calmer l'agitation.",
+            "        Source : Management of alcohol withdrawal (https://pubmed.ncbi.nlm.nih.gov/).",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Dans quel contexte l’administration de lorazépam est-elle recommandée ?",
+        "options": [
+            "",
+            "        - État de mal épileptique.",
+            "        - Sevrage alcoolique.",
+            "        - Agitation sévère chez un patient psychiatrique.",
+            "        Source : Evidence-based emergency sedation protocols.",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Quels psychotropes sont utilisés pour traiter un état confusionnel aigu ?",
+        "options": [
+            "",
+            "        - Halopéridol.",
+            "        - Olanzapine pour les patients à risque de syndrome extrapyramidal.",
+            "        Source : Delirium management in the ED (https://doi.org/10.1016/j.ajem.2017.09.016).",
+            "        "
+        ],
+        "correct_answers": [
+            1
+        ]
+    }
+]
